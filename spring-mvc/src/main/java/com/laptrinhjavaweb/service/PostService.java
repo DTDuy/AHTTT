@@ -10,7 +10,7 @@ import com.laptrinhjavaweb.repository.PostRepository;
 
 @Service
 public class PostService {
-	
+	//commit
 	@Autowired
 	private PostRepository PostRP;
 
